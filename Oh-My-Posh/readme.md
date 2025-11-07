@@ -1,5 +1,7 @@
 # Oh My Posh – PowerShell Setup on Windows
 
+<img src="omp.png" alt="OMP" style="max-width:150px" />
+
 Beautiful and customizable prompt for PowerShell and Windows Terminal using Oh My Posh.
 
 ---
