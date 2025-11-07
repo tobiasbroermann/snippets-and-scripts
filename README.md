@@ -179,8 +179,8 @@
 
 ## 📊 Repo Stats  
 
-![GitHub Last Commit](https://img.shields.io/github/last-commit/getOne21/snippets-and-scripts)  
-![GitHub Repo stars](https://img.shields.io/github/stars/getOne21/snippets-and-scripts?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/getOne21/snippets-and-scripts?style=social)  
-![GitHub issues](https://img.shields.io/github/issues/getOne21/snippets-and-scripts)  
-![GitHub repo size](https://img.shields.io/github/repo-size/getOne21/snippets-and-scripts)  
+![GitHub Last Commit](https://img.shields.io/github/last-commit/tobiasbroermann/snippets-and-scripts)  
+![GitHub Repo stars](https://img.shields.io/github/stars/tobiasbroermann/snippets-and-scripts?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/tobiasbroermann/snippets-and-scripts?style=social)  
+![GitHub issues](https://img.shields.io/github/issues/tobiasbroermann/snippets-and-scripts)  
+![GitHub repo size](https://img.shields.io/github/repo-size/tobiasbroermann/snippets-and-scripts)  
